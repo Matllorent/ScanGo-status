@@ -1,7 +1,7 @@
 url: https://scango-rouge.vercel.app/api/healthz
 status: up
 code: 200
-responseTime: 365
-lastUpdated: 2026-10-26T00:57:30.749Z
+responseTime: 335
+lastUpdated: 2026-10-27T01:47:36.110Z
 startTime: 2026-10-15T05:26:03.453Z
 generator: Upptime <https://github.com/upptime/upptime>
